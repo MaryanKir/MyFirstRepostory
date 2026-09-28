@@ -1,1 +1,1 @@
-# MyFirstRepostory
+Я изучаю git
